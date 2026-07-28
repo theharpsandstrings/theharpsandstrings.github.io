@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c46514a2.css",
+    "main.js": "/static/js/main.592ba868.js",
+    "static/js/453.30cdf3a4.chunk.js": "/static/js/453.30cdf3a4.chunk.js",
+    "static/media/Concert.jpeg": "/static/media/Concert.ed535dd53e767cdb1a09.jpeg",
+    "index.html": "/index.html",
+    "main.c46514a2.css.map": "/static/css/main.c46514a2.css.map",
+    "main.592ba868.js.map": "/static/js/main.592ba868.js.map",
+    "453.30cdf3a4.chunk.js.map": "/static/js/453.30cdf3a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c46514a2.css",
+    "static/js/main.592ba868.js"
+  ]
+}
